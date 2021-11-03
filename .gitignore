@@ -20,3 +20,5 @@
 
 # virtual machine crash logs, see http://www.java.com/en/download/help/error_hotspot.xml
 hs_err_pid*
+avro-example-bigdecimal/.idea/sonarlint/issuestore/f/5/f597ed986681a442f2395f6de5b069b91d318818
+avro-example-bigdecimal/.idea/sonarlint/issuestore/index.pb
